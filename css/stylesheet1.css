@@ -1,0 +1,114 @@
+/*header code */
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;}
+body {
+    margin: 0px;
+    background-color: rgba(255, 255, 255, 0.863);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.hf {
+    height: 170px;
+    background-color : rgba(4, 124, 58, 0.87);
+     padding: 6px;
+     color: rgba(255, 255, 255, 0.849);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+hgroup {
+    text-align: center;}
+
+nav {
+    background-color : rgba(4, 124, 58, 0.87);
+    margin: 0px;
+    clear: both;
+    height: 60px;}
+nav ul {
+    margin: 0px;
+    padding: 5px 5px 5px 5px;}
+li {
+   display: inline;
+   margin-right: 60px;}
+li:hover{
+    color: rgb(231, 25, 25);
+}
+/*header code */
+#bhed {
+    color: rgb(235, 123, 48);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+section.destinations {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    width: 750px;
+    margin-bottom: 35px;}
+
+article {
+        clear: both;
+        overflow: auto;
+        width: 100%;}
+    
+
+figure {
+    clear: both;
+    float:left;
+    width: 330px;
+    height: 330px;
+    padding: 5px;
+    margin: 20px;
+    margin-right: 20px;}
+.medium {
+        width: 330px;
+        height: 330px;}
+
+#sbtitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(247, 21, 21)}
+#btitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(46, 39, 39)} 
+.par {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(10, 2, 2, 0.74);}
+aside {
+
+    float: left;
+    padding: 20px;
+    width: 350px;
+    margin-left: 150px;
+    margin-top: 0px;}
+
+#links {
+        text-align: center;}
+a { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(230, 10, 58, 0.938);
+    display: block;
+    margin: 20px;}
+
+a:hover {
+    color: rgba(51, 22, 28, 0.938);}
+#mv {
+
+    color: rgb(235, 123, 48);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+figcaption {
+    font-family: fantasy;
+    color: rgba(12, 21, 39, 0.658);}
+
+#last{
+    text-align: center;}
+.last{
+    margin-top: 100px;}
+
+footer{
+    color: rgba(255, 255, 255, 0.849);
+    padding: 10px;
+    clear: both;
+    height: 50px;
+    background-color : rgba(4, 124, 58, 0.87);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+
+
